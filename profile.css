@@ -1,0 +1,37 @@
+nav {
+	border-bottom: 3px solid black;
+    text-align: center;
+
+}
+.crumb {
+	margin-right: 2em;
+	display: inline;
+    text-decoration: none;
+}
+
+*{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.btn1 {
+    height: 36px;
+    width: 125px;
+}
+
+.btn2 { 
+    height: 36px;
+    width: 125px;
+    background-color: blanchedalmond;
+}
+
+.btn3 {
+    height: 36px;
+    width: 125px;
+    background-color: blanchedalmond;
+}
+
